@@ -981,15 +981,7 @@
     debug "^4.1.0"
     globals "^11.1.0"
 
-"@babel/types@^7.16.0", "@babel/types@^7.16.7", "@babel/types@^7.16.8", "@babel/types@^7.17.0", "@babel/types@^7.18.0", "@babel/types@^7.4.4":
-  version "7.18.0"
-  resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.18.0.tgz#ef523ea349722849cb4bf806e9342ede4d071553"
-  integrity sha512-vhAmLPAiC8j9K2GnsnLPCIH5wCrPpYIVBCWRBFDCB7Y/BXLqi/O+1RSTTM2bsmg6U/551+FCf9PNPxjABmxHTw==
-  dependencies:
-    "@babel/helper-validator-identifier" "^7.16.7"
-    to-fast-properties "^2.0.0"
-
-"@babel/types@^7.17.12":
+"@babel/types@^7.16.0", "@babel/types@^7.16.7", "@babel/types@^7.16.8", "@babel/types@^7.17.0", "@babel/types@^7.17.12", "@babel/types@^7.18.0", "@babel/types@^7.4.4":
   version "7.18.0"
   resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.18.0.tgz#ef523ea349722849cb4bf806e9342ede4d071553"
   integrity sha512-vhAmLPAiC8j9K2GnsnLPCIH5wCrPpYIVBCWRBFDCB7Y/BXLqi/O+1RSTTM2bsmg6U/551+FCf9PNPxjABmxHTw==
@@ -1266,10 +1258,10 @@
   resolved "https://registry.yarnpkg.com/@types/minimatch/-/minimatch-3.0.5.tgz#1001cc5e6a3704b83c236027e77f2f58ea010f40"
   integrity sha512-Klz949h02Gz2uZCMGwDUSDS1YBlTdDDgbWHi+81l29tQALUtvz4rAYi5uoVhE5Lagoq6DeqAUlbrHvW/mXDgdQ==
 
-"@types/mithril@2.0.10":
-  version "2.0.10"
-  resolved "https://registry.yarnpkg.com/@types/mithril/-/mithril-2.0.10.tgz#27ed0cc7cab30daf722d0d7c48c826bea381c954"
-  integrity sha512-ef44j85vtiFuwu4ADkHSDfYu1MbnSQSgOrTMRfQ5v4gvAnB4ms8KjelJzUIuSrL3lO7y8k2T0DiUAAEfisnsQw==
+"@types/mithril@2.0.11":
+  version "2.0.11"
+  resolved "https://registry.yarnpkg.com/@types/mithril/-/mithril-2.0.11.tgz#090fb16e5ffcc616f7f409a2b3d50a90427f8b97"
+  integrity sha512-2tYTImXc7RzWkPpgcbnSKpV46DQI4Bm8CfgmkrIbst8MJlX6d8hdgy2yQCEf5NZYLGNyK4xbzb4rr8VPmk0iXQ==
 
 "@types/node@*", "@types/node@>=10.0.0":
   version "17.0.8"
@@ -5461,9 +5453,11 @@ mississippi@^3.0.0:
     through2 "^2.0.0"
 
 mithril@^2:
-  version "2.0.4"
-  resolved "https://registry.yarnpkg.com/mithril/-/mithril-2.0.4.tgz#d125969d992b924c7185d24ff92d997e5c00116b"
-  integrity sha512-mgw+DMZlhMS4PpprF6dl7ZoeZq5GGcAuWnrg5e12MvaGauc4jzWsDZtVGRCktsiQczOEUr2K5teKbE5k44RlOg==
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/mithril/-/mithril-2.2.0.tgz#072fa16286eb3388915521ea00b9dc2564d148bb"
+  integrity sha512-Dqdp2As819R5Wgtjbe+L2mww+K5/sVAqb4K/d4wmNg9Qp5IzzQbanbiU2l8GCWu/k44gClqDQBwNytEMLagVJQ==
+  dependencies:
+    ospec "4.0.0"
 
 mixin-deep@^1.2.0:
   version "1.3.2"
@@ -5883,6 +5877,13 @@ osenv@^0.1.4:
   dependencies:
     os-homedir "^1.0.0"
     os-tmpdir "^1.0.0"
+
+ospec@4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/ospec/-/ospec-4.0.0.tgz#7aaf8cb6d352a3f22e879460eebbc5f12df99779"
+  integrity sha512-MpDtkpscOxHYb4w71v7GB4LBsRuzxZnM+HdwjhzJQzu+5EJvA80yxTaKw+wp5Dmf5RV2/Bg3Uvz2vlI/PhW9Ow==
+  dependencies:
+    glob "^7.1.3"
 
 p-limit@^2.0.0, p-limit@^2.2.0:
   version "2.3.0"
