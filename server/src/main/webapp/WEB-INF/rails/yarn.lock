@@ -1235,15 +1235,10 @@
   resolved "https://registry.yarnpkg.com/@types/mithril/-/mithril-2.0.11.tgz#090fb16e5ffcc616f7f409a2b3d50a90427f8b97"
   integrity sha512-2tYTImXc7RzWkPpgcbnSKpV46DQI4Bm8CfgmkrIbst8MJlX6d8hdgy2yQCEf5NZYLGNyK4xbzb4rr8VPmk0iXQ==
 
-"@types/node@*", "@types/node@>=10.0.0":
-  version "17.0.8"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.8.tgz#50d680c8a8a78fe30abe6906453b21ad8ab0ad7b"
-  integrity sha512-YofkM6fGv4gDJq78g4j0mMuGMkZVxZDgtU0JRdx6FgiJDG+0fY0GKVolOV8WqVmEhLCXkQRjwDdKyPxJp/uucg==
-
-"@types/node@^16.11.47":
-  version "16.11.47"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.11.47.tgz#efa9e3e0f72e7aa6a138055dace7437a83d9f91c"
-  integrity sha512-fpP+jk2zJ4VW66+wAMFoBJlx1bxmBKx4DUFf68UHgdGCOuyUTDlLWqsaNPJh7xhNDykyJ9eIzAygilP/4WoN8g==
+"@types/node@*", "@types/node@>=10.0.0", "@types/node@^18.6.3":
+  version "18.6.3"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.6.3.tgz#4e4a95b6fe44014563ceb514b2598b3e623d1c98"
+  integrity sha512-6qKpDtoaYLM+5+AFChLhHermMQxc3TOEFIDzrZLPRGHPrLEwqFkkT5Kx3ju05g6X7uDPazz3jHbKPX0KzCjntg==
 
 "@types/optimize-css-assets-webpack-plugin@^5.0.5":
   version "5.0.5"
