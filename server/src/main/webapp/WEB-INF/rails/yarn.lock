@@ -1281,15 +1281,10 @@
   resolved "https://registry.yarnpkg.com/@types/mithril/-/mithril-2.0.11.tgz#090fb16e5ffcc616f7f409a2b3d50a90427f8b97"
   integrity sha512-2tYTImXc7RzWkPpgcbnSKpV46DQI4Bm8CfgmkrIbst8MJlX6d8hdgy2yQCEf5NZYLGNyK4xbzb4rr8VPmk0iXQ==
 
-"@types/node@*", "@types/node@>=10.0.0":
-  version "17.0.8"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.8.tgz#50d680c8a8a78fe30abe6906453b21ad8ab0ad7b"
-  integrity sha512-YofkM6fGv4gDJq78g4j0mMuGMkZVxZDgtU0JRdx6FgiJDG+0fY0GKVolOV8WqVmEhLCXkQRjwDdKyPxJp/uucg==
-
-"@types/node@^16.11.59":
-  version "16.11.59"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.11.59.tgz#823f238b9063ccc3b3b7f13186f143a57926c4f6"
-  integrity sha512-6u+36Dj3aDzhfBVUf/mfmc92OEdzQ2kx2jcXGdigfl70E/neV21ZHE6UCz4MDzTRcVqGAM27fk+DLXvyDsn3Jw==
+"@types/node@*", "@types/node@>=10.0.0", "@types/node@^18.7.18":
+  version "18.7.18"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.7.18.tgz#633184f55c322e4fb08612307c274ee6d5ed3154"
+  integrity sha512-m+6nTEOadJZuTPkKR/SYK3A2d7FZrgElol9UP1Kae90VVU4a6mxnPuLiIW1m4Cq4gZ/nWb9GrdVXJCoCazDAbg==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.1"
