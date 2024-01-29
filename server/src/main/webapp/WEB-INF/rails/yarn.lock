@@ -3167,10 +3167,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"bourbon@npm:~7.1.0":
-  version: 7.1.0
-  resolution: "bourbon@npm:7.1.0"
-  checksum: 7b55dc3ad8eb46ebf9fae64774cbff6844fff31c5e7e4c034c940f6afd0823b06a67cd92b033effc20f5b8f2f2b3e96e3b938cc7e1958eefec0f85b62c701746
+"bourbon@npm:~7.3.0":
+  version: 7.3.0
+  resolution: "bourbon@npm:7.3.0"
+  checksum: f52a4fae04df34046b6d7a0afa63a4c8ad5c8839749f69a3be8359027232d30105073c0f6b0b20a40897eab1184a11c2d2503256a7068e3442e8d3031798a06e
   languageName: node
   linkType: hard
 
@@ -5802,7 +5802,7 @@ __metadata:
     angular: "file:node-vendor/angular"
     awesomplete: "npm:^1.1.5"
     babel-loader: "npm:^8.3.0"
-    bourbon: "npm:~7.1.0"
+    bourbon: "npm:~7.3.0"
     cache-loader: "npm:^4.1.0"
     chart.js: "npm:^3.9.1"
     chartjs-plugin-zoom: "npm:^2.0.1"
